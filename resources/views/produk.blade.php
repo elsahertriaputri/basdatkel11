@@ -44,7 +44,9 @@
 
             <div id="main-menu" class="main-menu collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    
+                <li class="menu-item active ">
+                        <a href="/" class="toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-table"></i>Dashboard</a>
+                    </li>
                     <li class="menu-item active ">
                         <a href="/" class="toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-table"></i>Produk</a>
                     </li>
